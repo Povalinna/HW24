@@ -1,0 +1,17 @@
+body{
+    margin: o;
+}
+.btn1{
+    width: 100px;
+    height: 50px;
+    border: 2px solid darkblue;
+    background-color: cadetblue;
+    margin: 50px 20px 50px;
+}
+.btn2{
+    width: 100px;
+    height: 50px;
+    border: 2px solid darkorchid;
+    background-color: darksalmon;
+    margin: 50px 20px 50px;
+}
